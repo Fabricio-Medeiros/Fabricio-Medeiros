@@ -1,4 +1,6 @@
-## Olá! Eu sou o Fabrício Medeiros, atualmente trabalhando como Engenheiro de Software Trainee.
+### Olá! Eu sou o Fabrício Medeiros. 
+#### Sou estudante de Engenharia de Produção e atualmente trabalho como Engenheiro de Software Trainee.
+
 <div align="center">
   <a href="https://github.com/Fabricio-Medeiros">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Fabricio-Medeiros&show_icons=true&theme=swift&include_all_commits=true&count_private=true"/>
