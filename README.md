@@ -1,8 +1,8 @@
-## Olá! Eu sou o Fabrício Medeiros, estudante de Engenharia de Produção e trabalhando hoje como Engenheiro de Software Trainee.
+## Olá! Eu sou o Fabrício Medeiros, atualmente trabalhando como Engenheiro de Software Trainee.
 <div align="center">
   <a href="https://github.com/Fabricio-Medeiros">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Fabricio-Medeiros&show_icons=true&theme=swift&include_all_commits=true&count_private=true"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabricio-Medeiros&layout=compact&langs_count=7&theme=swift"/>
+  <img width="47.25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabricio-Medeiros&layout=compact&langs_count=7&theme=swift"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Fabricio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
